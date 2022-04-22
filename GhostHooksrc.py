@@ -68,7 +68,7 @@ def main():
     Y888P  YP   YP  `Y88P'  `8888Y'    YP    YP   YP  `Y88P'   `Y88P'  YP   YD  
 
 
-    https://ghostt.ga                                         Version 1.4(embedded)!
+    https://ghostt.ga                                         Version 1.4
 
 
     ─═══════════════════════════════════☆☆═══════════════════════════════════─
