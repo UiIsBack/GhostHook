@@ -1,1 +1,3 @@
-pip install pystyle requests colorama
+pip install pystyle 
+pip install requests 
+pip install colorama
