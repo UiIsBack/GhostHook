@@ -98,7 +98,7 @@ def main():
             
     else:
             print(f"{Fore.RED}[404] Webhook Invalid{Fore.RESET}")
-            time.sleep(30000000000000000000000000000000000000000000000000000000000000000000000000)
+            os.system('pause >null') # or break()
 
     Write.Print('1. Webhook Deleter 2. Webhook Spammer\n', Colors.purple, interval=0)
 
